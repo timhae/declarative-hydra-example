@@ -12,12 +12,12 @@
     "inputs": {
         "src": {
             "type": "git",
-            "value": "https://github.com/timhae/declarative-hydra-example.git",
+            "value": "https://github.com/timhae/declarative-hydra-example master",
             "emailresponsible": false
         },
         "nixpkgs": {
             "type": "git",
-            "value": "https://github.com/NixOS/nixpkgs.git nixos-unstable",
+            "value": "https://github.com/NixOS/nixpkgs nixos-unstable",
             "emailresponsible": false
         }
     }

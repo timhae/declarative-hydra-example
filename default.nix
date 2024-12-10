@@ -21,7 +21,7 @@ in
             "emailoverride": "",
             "keepnr": 3,
             "inputs": {
-                "src": { "type": "git", "value": "https://github.com/timhae/declarative-hydra-example.git", "emailresponsible": false },
+                "src": { "type": "git", "value": "https://github.com/timhae/declarative-hydra-example master", "emailresponsible": false },
                 "nixpkgs": { "type": "git", "value": "https://github.com/NixOS/nixpkgs nixos-unstable", "emailresponsible": false }
             }
         }
