@@ -22,7 +22,7 @@ in
             "keepnr": 3,
             "inputs": {
                 "src": { "type": "git", "value": "git://github.com/timhae/declarative-hydra-example.git", "emailresponsible": false },
-                "nixpkgs": { "type": "git", "value": "git://github.com/NixOS/nixpkgs.git nixos-unstable", "emailresponsible": false }
+                "nixpkgs": { "type": "git", "value": "git://github.com/NixOS/nixpkgs.git nixos-24.11", "emailresponsible": false }
             }
         }
     }
